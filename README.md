@@ -1,7 +1,7 @@
 # movie trailer
 
 
-###Introduction
+### Introduction
 
 This is a Documentation of udacity Full stack web-development nano degree First project " *** movie trailer website *** " .
 
@@ -23,7 +23,7 @@ This is a Documentation of udacity Full stack web-development nano degree First 
 - **`entertainment_center.py`** by calling the constructor **`media.Movie()`** to instantiate movie objects. You’ve given movies their own custom data structure by defining the movie class and constructor, and now these objects can be stored in a list data structure. This list of movies is what the **`open_movies_page()`** function needs as input in order to build the **HTML** file, so you can display the website.
 
 ***
-###How to Use
+### How to Use
 
 - **Download** `fresh_tomates.py` and `fresh_tomatoes.html` from this [repository](https://github.com/udacity/ud036_StarterCode) . 
 
